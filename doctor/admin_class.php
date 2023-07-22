@@ -13,9 +13,9 @@ class DB{
     
     function set(){
         $this->host = "localhost";
-        $this->username = "seminaram_nobat123";
-        $this->password = "123@no123bat@123";
-        $this->db = "seminaram_nobat";
+        $this->username = "root";
+        $this->password = "";
+        $this->db = "nobat";
     }
     
     function connect(){
